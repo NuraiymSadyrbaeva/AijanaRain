@@ -1,0 +1,27 @@
+.section-2 {
+  background-image: url("https://gamerwall.pro/uploads/posts/2022-03/1648093791_8-gamerwall-pro-p-fon-dlya-programmi-krasivie-8.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 60rem;
+}
+.section-4 {
+  background-image: url("https://papik.pro/uploads/posts/2021-11/thumbs/1636593333_4-papik-pro-p-html-risunok-fona-4.jpg");
+  padding-bottom: 50px;
+  height: 350px;
+}
+.section-5 {
+  background-image: url("");
+  padding-bottom: 50px;
+  height: 750px;
+}
+
+.footer {
+  background-image: url("https://pcvector.net/uploads/posts/2018-02/1517572511_bg-svg-gradient-min.png");
+  padding-bottom: 50px;
+  height: 250px;
+}
